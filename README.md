@@ -2,7 +2,7 @@
 
 ## installation
 ```bash
-$ composer require "bernard-ng\maishapay-client"
+$ composer require "bernard-ng\maishapay-php-client"
 ```
 
 ## basic usage
